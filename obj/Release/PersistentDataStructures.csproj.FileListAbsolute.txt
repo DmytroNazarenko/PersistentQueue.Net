@@ -1,0 +1,6 @@
+C:\Users\gotthit\Documents\Visual Studio 2015\Projects\PersistentDataStructures\bin\Release\PersistentDataStructures.exe.config
+C:\Users\gotthit\Documents\Visual Studio 2015\Projects\PersistentDataStructures\bin\Release\PersistentDataStructures.exe
+C:\Users\gotthit\Documents\Visual Studio 2015\Projects\PersistentDataStructures\bin\Release\PersistentDataStructures.pdb
+C:\Users\gotthit\Documents\Visual Studio 2015\Projects\PersistentDataStructures\obj\Release\PersistentDataStructures.csprojResolveAssemblyReference.cache
+C:\Users\gotthit\Documents\Visual Studio 2015\Projects\PersistentDataStructures\obj\Release\PersistentDataStructures.exe
+C:\Users\gotthit\Documents\Visual Studio 2015\Projects\PersistentDataStructures\obj\Release\PersistentDataStructures.pdb
